@@ -1,1 +1,1 @@
-# Codechef_Long-Challenge_Solution-
+# Codechef_Long-Challenge_Solution
